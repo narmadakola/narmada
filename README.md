@@ -1,3 +1,2 @@
 # narmada
-for testing purpose
-sample trying
+sample purpose
